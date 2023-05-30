@@ -31,7 +31,7 @@ var string = "  Hey you are doing good, keep it up   ";
     console.log("Substring starting from index 22 =>",trimString.substring(22));
     console.log("--------------------------------------------------------------------");
     console.log("Checked is string ends with 'up' =>",trimString.endsWith("up"));
-    console.log("--------------------------------------------------------------------");
+    console.log("----------------------------------------------------------------------");
     
     console.log("Checked is string start with 'Hey' =>",trimString.startsWith("Hey"));
 }
