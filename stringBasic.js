@@ -23,3 +23,4 @@ console.log("------------------------------");
      console.log("My hobbies are:", hobby2);
      console.log("My hobbies are:", hobby3);
      console.log("Sum of hobbies are:", Hobby);
+     console.log("---------------");
