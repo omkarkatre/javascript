@@ -22,4 +22,3 @@ var femaleMarriageEligibility = function(gender,Age,girName)
     console.log(`${result}`);
 }
 femaleMarriageEligibility();
-
