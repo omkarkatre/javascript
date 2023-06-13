@@ -34,7 +34,6 @@ console.log(`total no og word ->${num2}`);
 console.log(`-----------`);
 
 
-
 }
 stringhandsOn();
 
