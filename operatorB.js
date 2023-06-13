@@ -49,7 +49,6 @@ var wordlength = function()
     var result3=word3length%2==0?`Length of the "${word3}"is ${word3length}and is Even number`:`Length of the "${word3}"is ${word3length}and is odd number`;
     console.log(`${result3}`);
 
-
 }
 wordlength("JavaScript","Developer","Google");
 
