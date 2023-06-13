@@ -55,7 +55,5 @@ gradeCalculation("eighty");
 gradeCalculation(null);
 gradeCalculation(undefined);
 
- 
-
 // Valid input
 
