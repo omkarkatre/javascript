@@ -13,11 +13,11 @@ function personalDetails(firstName,lastName,collegename){
     console.log("My Personal Details");
     firstName="Omkar"
     lastName="katre"
-    collegeName="ADCET"
+    collegename="ADCET"
 
     console.log("My name is:",firstName);
     console.log("My name is:",lastName);
-    console.log("My name is:",collegeName);
+    console.log("My name is:",collegename);
 
 
 }
