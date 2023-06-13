@@ -52,7 +52,7 @@ oddPostionedChars(givenstring1)
     for (let index = 0; index <= givenstring1.length; index++) {
        var char= givenstring1.charAt(index);
        if (index%2!=0&& char!=0 ) {
-        str=str+char;
+        str=str+char;   
        }
         
     }
