@@ -1,4 +1,4 @@
-console.log(`-------------Leap Year-------------`);
+console.log(`-------------Leap Year--------------`);
 var leap=function isLeapYear(year) {
   if (year == null || year == undefined || null == NaN) {
     console.log(`${year} not valild leap year`);
