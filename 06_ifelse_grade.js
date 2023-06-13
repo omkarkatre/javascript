@@ -13,6 +13,7 @@ function voteEligibility(age) {
         
     }
 }
+
 voteEligibility(45);
 voteEligibility(17);
 voteEligibility(8);
